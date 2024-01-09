@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 276ff68ba4445f64ea924af52d61c29f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Hektar
+    100002: //RootNode
+    100004: Hektar_Bulb
+    100006: Cylinder001
+    100008: Hectar_Cover
+    100010: Hektar_Rod
+    100012: Hectar
+    100014: Object001
+    100016: Break
+    100018: Break_MS
+    100020: Cylinder002
+    400000: Hektar
+    400002: //RootNode
+    400004: Hektar_Bulb
+    400006: Cylinder001
+    400008: Hectar_Cover
+    400010: Hektar_Rod
+    400012: Hectar
+    400014: Object001
+    400016: Break
+    400018: Break_MS
+    400020: Cylinder002
+    2100000: 01 - Default
+    2100002: No Name
+    2300000: Hektar
+    2300002: Hektar_Bulb
+    2300004: Cylinder001
+    2300006: Hectar_Cover
+    2300008: Hektar_Rod
+    2300010: Hectar
+    2300012: Object001
+    2300014: Break
+    2300016: Break_MS
+    2300018: Cylinder002
+    3300000: Hektar
+    3300002: Hektar_Bulb
+    3300004: Cylinder001
+    3300006: Hectar_Cover
+    3300008: Hektar_Rod
+    3300010: Hectar
+    3300012: Object001
+    3300014: Break
+    3300016: Break_MS
+    3300018: Cylinder002
+    4300000: Hektar
+    4300002: Hektar_Bulb
+    4300004: Cylinder001
+    4300006: Hektar_Rod
+    4300008: Hectar_Cover
+    4300010: Hectar
+    4300012: Object001
+    4300014: Break
+    4300016: Break_MS
+    4300018: Cylinder002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: f82a904e376e6ac4d92a90b1894a02a0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
